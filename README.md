@@ -4,6 +4,7 @@
 
 - <b>Active Directory Home Lab</b> (https://github.com/fritz1reikoz/Active-Directory-Home-Lab)
 - <b>Malware Analysis & Response</b> (https://github.com/fritz1reikoz/Malware-Analysis-and-Incident-Response)
+- <b>Enhancing Organizational Security Awareness Campaign</b> (https://github.com/fritz1reikoz/EOSAC)
 
 <h2>Certifications</h2>
 
