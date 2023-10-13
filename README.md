@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - (https://github.com/fritz1reikoz/Active-Directory-Home-Lab)
+- <b>Active Directory Home Lab</b> (https://github.com/fritz1reikoz/Active-Directory-Home-Lab)
+- <b>Malware Analysis & Response</b> (https://github.com/fritz1reikoz/Malware-Analysis-and-Incident-Response)
 
 <h2>Certifications</h2>
 
