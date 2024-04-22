@@ -6,6 +6,7 @@
 - <b>Malware Analysis & Response</b> (https://github.com/fritz1reikoz/Malware-Analysis-and-Incident-Response)
 - <b>Enhancing Organizational Security Awareness Campaign</b> (https://github.com/fritz1reikoz/EOSAC)
 - <b>Cybersecurity SOC Malware Analysis Lab Setup</b> (https://github.com/fritz1reikoz/SOC-Malware-Analysis-Lab)
+- <b>Password Validator in Python</b> (https://github.com/fritz1reikoz/Python-Password-Validator)
 
 <h2>Certifications</h2>
 
